@@ -17,7 +17,8 @@
 
 ### About Me
 
-- Design | web3 & blockchain tools content creator
+- Design
+- Web3 & blockchain tools content creator
 
 <hr>
 
