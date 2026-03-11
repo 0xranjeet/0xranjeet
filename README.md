@@ -9,20 +9,17 @@
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Oxranjeet&color=blue" alt="Profile Views">
 </p>
 
 <hr>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-</p>
 
 ### About Me
 
 - Design | web3 & blockchain tools content creator
 
----
+<hr>
 
 ### Tech Stack
 
