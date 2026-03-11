@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=Oxranjeet&color=blue" alt="Profile Views">
 </p>
 
----
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
 ### About Me
 
