@@ -17,7 +17,7 @@
 
 ### About Me
 
-- CT researcher contributor
+- Design | web3 & blockchain tools content creator
 - A Learning ![Web3](https://img.shields.io/badge/-Web3-black?style=flat-square&logo=web3dotjs&logoColor=white) Developer
 
 ---
