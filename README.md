@@ -26,11 +26,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Smart Contracts](https://img.shields.io/badge/-Smart%20Contracts-black?style=flat-square&logo=solidity)
 
----
-
-###  GitHub Stats
-
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xranjeet&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>  
 
