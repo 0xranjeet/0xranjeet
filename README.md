@@ -23,10 +23,10 @@
 
 ### Skills
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/typescript-%23FCC624.svg?style=flat-square&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css)
-![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-363636?style=flat-square&logo=solidity)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=flat-square&logo=tailwind-css)
+![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-000000?style=flat-square&logo=solidity)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 
