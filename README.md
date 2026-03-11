@@ -23,7 +23,6 @@
 
 ### Skills
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=javascript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=social&logo=javascript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript)
