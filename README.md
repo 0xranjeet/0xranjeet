@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Oxranjeet&color=blue" alt="Profile Views">
 </p>
 
