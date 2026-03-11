@@ -24,7 +24,7 @@
 ### Skills
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/typescript-%D17F52.svg?style=for-the-badge&logo=typescript)
+![TypeScript](https://img.shields.io/badge/typescript-%D17F52FF.svg?style=for-the-badge&logo=typescript)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css)
 ![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-363636?style=for-the-badge&logo=solidity)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
