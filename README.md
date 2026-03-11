@@ -26,9 +26,9 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-![Smart Contracts](https://img.shields.io/badge/-Smart%20Contracts-black?style=flat-square&logo=solidity)
+![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-363636?style=for-the-badge&logo=solidity)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xranjeet&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
