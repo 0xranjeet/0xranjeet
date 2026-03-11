@@ -31,6 +31,6 @@
 ###  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=morsyxbt&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morsyxbt&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xranjeet&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xranjeet&layout=compact&theme=radical" />
 </p>   this shall grow.
