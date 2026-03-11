@@ -21,7 +21,7 @@
 
 ---
 
-###  Currently Into
+###  Skills
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Smart Contracts](https://img.shields.io/badge/-Smart%20Contracts-black?style=flat-square&logo=solidity)
