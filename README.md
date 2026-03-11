@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://x.com/0xranjeet">
-    <img src="https://img.shields.io/twitter/follow/Morsy">
+    <img src="https://img.shields.io/twitter/follow/0xranjeet">
   </a>
 </p>
 
