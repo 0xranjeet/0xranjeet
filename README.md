@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=Oxranjeet&color=blue" alt="Profile Views">
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=120&section=footer"/>
+<hr>
 
 ### About Me
 
