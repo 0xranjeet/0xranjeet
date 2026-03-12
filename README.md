@@ -29,9 +29,6 @@
 ![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-000000?style=flat-square&logo=solidity)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
-
-
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xranjeet&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>  
