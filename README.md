@@ -26,7 +26,6 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=flat-square&logo=tailwind-css)
 ![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-000000?style=flat-square&logo=solidity)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
