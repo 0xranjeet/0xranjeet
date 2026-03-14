@@ -1,6 +1,6 @@
 <!-- Animated Typing Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=vt323&weight=700&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub;where+ideas+turn+into+code" />
+  <img src="https://readme-typing-svg.demolab.com?font=poppins&weight=700&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub;where+ideas+turn+into+code" />
 </p>
 
 <p align="center">
